@@ -1,0 +1,14 @@
+C:\Users\Cliente\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\BovespaReader.exe.config
+C:\Users\Cliente\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Acoes.mdf
+C:\Users\Cliente\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Acoes_log.ldf
+C:\Users\Cliente\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\CompraVenda.mdf
+C:\Users\Cliente\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\CompraVenda_log.ldf
+C:\Users\Cliente\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\BovespaReader.exe
+C:\Users\Cliente\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\BovespaReader.pdb
+C:\Users\Cliente\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Cliente\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Cliente\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Cliente\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\BovespaReader.csprojResolveAssemblyReference.cache
+C:\Users\Cliente\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\BovespaReader.exe
+C:\Users\Cliente\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\BovespaReader.pdb
+C:\Users\Cliente\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\BvspReader.exe.config
